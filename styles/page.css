@@ -1,6 +1,5 @@
 #page{
     max-width: 1120px;
-    border: 2px solid red;
     margin-inline: auto;
 
     header{
@@ -67,5 +66,9 @@
                 color: var(--accent-orange);
             }
         }
+    }
+
+    footer p{
+        text-align: center;
     }
 }
